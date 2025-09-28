@@ -22,8 +22,8 @@ export const minikitConfig = {
   miniapp: {
     version: "1",
     name: "coba-mini-app",
-    subtitle: "",
-    description: "",
+    subtitle: "davis app",
+    description: "davis mini app",
     screenshotUrls: [],
     iconUrl: `${ROOT_URL}/icon.png`,
     splashImageUrl: `${ROOT_URL}/splash.png`,
@@ -33,9 +33,9 @@ export const minikitConfig = {
     primaryCategory: "utility",
     tags: ["example"],
     heroImageUrl: `${ROOT_URL}/hero.png`,
-    tagline: "",
-    ogTitle: "",
-    ogDescription: "",
+    tagline: "minikit",
+    ogTitle: "miniminidavis",
+    ogDescription: "miniminiminidavis",
     ogImageUrl: `${ROOT_URL}/hero.png`,
   },
 } as const;
